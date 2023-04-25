@@ -1,0 +1,15 @@
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.csproj.AssemblyReference.cache
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfo.cs
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\bin\Debug\net7.0\Assignment1.exe
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\bin\Debug\net7.0\Assignment1.deps.json
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\bin\Debug\net7.0\Assignment1.runtimeconfig.json
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\bin\Debug\net7.0\Assignment1.dll
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\bin\Debug\net7.0\Assignment1.pdb
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.dll
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\refint\Assignment1.dll
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.pdb
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\Assignment1.genruntimeconfig.cache
+C:\Users\ryans\OneDrive - Nelson Mandela University\BIT_2023\IRUD301\IRUD301_Projects\Assignment_1\Assignment1_Test2\Assignment1\obj\Debug\net7.0\ref\Assignment1.dll
